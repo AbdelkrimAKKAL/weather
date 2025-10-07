@@ -10,6 +10,8 @@
 
 ---
 
+link: https://weatherchallengeparis.netlify.app/
+
 ## 📖 Summary
 
 Planning an outdoor activity like a vacation, hiking trip, or a parade?  
